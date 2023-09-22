@@ -22,7 +22,7 @@
   "dependencies": {
     "@microsoft/1ds-core-js": "^3.2.10",
     "@microsoft/1ds-post-js": "^3.2.10",
-    "@microsoft/applicationinsights-web-basic": "^3.0.0",
+    "@microsoft/applicationinsights-web-basic": "^3.0.2",
     "applicationinsights": "2.6.0"
   },
   "devDependencies": {
